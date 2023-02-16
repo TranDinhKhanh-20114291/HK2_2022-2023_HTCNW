@@ -1,0 +1,21 @@
+.row{
+    float: left;
+    width: 100%;
+}
+header{
+    background-color: blanchedalmond;
+    width: 700px;
+    height: 500px;
+    
+}
+section::after {
+    background-color: blanchedalmond;
+    width: 700px;
+    height: 500px;
+}
+footer {
+    background-color: blanchedalmond;
+    width: 700px;
+    height: 500px;
+    
+}
